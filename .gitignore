@@ -1,0 +1,7 @@
+/build
+/sql
+ .classpath
+.metadata/
+.project
+.settings/
+
